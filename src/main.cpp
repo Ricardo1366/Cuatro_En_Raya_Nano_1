@@ -12,6 +12,7 @@ MakAlc_Alarma pulsadorAuto(5000, ComprobarLectura, 21);
 void setup()
 {
   byte intensidad1 = 0;
+  
   byte intensidad2 = 0;
   byte intensidadFondo = 0;
 
