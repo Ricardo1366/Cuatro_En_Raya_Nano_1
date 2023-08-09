@@ -211,7 +211,7 @@ void loop()
       }
     }
 
-    // Han pulsado una tecla de acción. #############################################
+    // Han pulsado una tecla de acción. #########
     if (pulsador >= 8 && pulsador < 16)
     {
 #if defined(DEBUG)
